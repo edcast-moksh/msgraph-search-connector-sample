@@ -1,0 +1,6 @@
+/home/ksolves/Desktop/Edcast/PartsInventoryConnector/obj/Debug/netcoreapp3.1/PartsInventoryConnector.csproj.AssemblyReference.cache
+/home/ksolves/Desktop/Edcast/PartsInventoryConnector/obj/Debug/netcoreapp3.1/PartsInventoryConnector.GeneratedMSBuildEditorConfig.editorconfig
+/home/ksolves/Desktop/Edcast/PartsInventoryConnector/obj/Debug/netcoreapp3.1/PartsInventoryConnector.AssemblyInfoInputs.cache
+/home/ksolves/Desktop/Edcast/PartsInventoryConnector/obj/Debug/netcoreapp3.1/PartsInventoryConnector.AssemblyInfo.cs
+/home/ksolves/Desktop/Edcast/PartsInventoryConnector/obj/Debug/netcoreapp3.1/PartsInventoryConnector.csproj.CoreCompileInputs.cache
+/home/ksolves/Desktop/Edcast/PartsInventoryConnector/obj/Debug/netcoreapp3.1/EFCoreSqlServerNetTopologySuite.cs
